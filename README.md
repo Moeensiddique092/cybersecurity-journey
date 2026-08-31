@@ -43,6 +43,8 @@ cybersecurity-journey/
 | Certifications | 🔴 Planned |
 
  🛠️ Tools I'm Learning
+`Nmap` `Gobuster` `Burp Suite` `Netcat` `Metasploit` `Wireshark`
+
  📞 Connect With Me
   LinkedIn: https://www.linkedin.com/in/moeen-siddique-291585297/
   TryHackMe: https://tryhackme.com/p/moeensiddique092
